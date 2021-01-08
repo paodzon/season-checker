@@ -1,0 +1,40 @@
+.season-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.winter{
+    background-color: aliceblue;
+}
+.summer{
+    background-color: orange;
+}
+
+.icon-left{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    
+}
+.icon-right{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+.sunny{
+    font-size: 20px !important;
+    
+}
+.snow{
+    font-size: 150px !important;
+    color: blue !important;
+}
+.sunny{
+    font-size: 150px !important;
+    color: red !important;
+}
+.text-align{
+    text-align: center;
+}
